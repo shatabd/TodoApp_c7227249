@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TodoNvvm </string>
+    <string name="no_todo">No Todo</string>
+    <string name="no_desc">No Desc</string>
+
+    <string name="enter_title">Enter title</string>
+    <string name="title_label">Title</string>
+    <string name="desc_label">Description</string>
+    <string name="enter_description">Enter description</string>
+    <string name="submit">Submit</string>
+    <string name="priority_label">Priority</string>
+    <string name="tasks_header">Tasks</string>
+    <string name="due_date">Due Date</string>
+    <string name="set_date">Set date</string>
+    <string name="priority_prompt">Priority</string>
+    <string-array name="priority_option">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="update_button">Update</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update">Update</string>
+    <string name="menu_delete_all">Delete All</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_sort_by">Sort By</string>
+    <string name="highest_to_lowest">Highest to Lowest</string>
+    <string name="tasks">Tasks</string>
+    <string name="toast_fab_message">Add Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="add_task">Add Task</string>
+</resources>
